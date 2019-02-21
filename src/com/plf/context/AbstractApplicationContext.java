@@ -91,7 +91,7 @@ public abstract class AbstractApplicationContext implements ApplicationContext {
 			e.printStackTrace();
 		}
 		
-	};
+	}
 	
 	
 	/**
