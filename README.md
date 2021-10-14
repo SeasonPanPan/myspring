@@ -49,3 +49,8 @@ myspring代码中也尽量使用了源码的重要类名的定义，可以帮助
 来源：CSDN 
 原文：https://blog.csdn.net/kuailebuzhidao/article/details/87869279 
 版权声明：本文为博主原创文章，转载请附上博文链接！
+
+*欢迎大家关注公众号，有资料有技术文章*
+
+![欢迎大家关注公众号，有技术文章有资料](http://img.zqzhaopin.cn/javaqr.jpg)
+
